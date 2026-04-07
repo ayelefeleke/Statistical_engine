@@ -38,7 +38,7 @@ The Law of Large Numbers states that as the number of trials increases, the simu
 ## Setup Instructions
 
 . Clone the repository:
-git clone https://github.com/yourusername/statistical_engine.git
+git clone https://github.com/ayelefeleke/Statistical_engine.git
 cd statistical_engine
 Ensure Python 3.x is installed. No external packages are required.
 Run the main program:
